@@ -124,7 +124,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="2.ico" />
-    <Content Include="photo_2020-11-07_17-32-130 %281%29.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
